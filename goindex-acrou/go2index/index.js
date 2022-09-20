@@ -132,7 +132,7 @@ function html(current_drive_order = 0, model = {}) {
   <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
   <title>${authConfig.siteName}</title>
   <style>
-    @import url(https://cdn.jsdelivr.net/gh/alx-xlx/goindex@${authConfig.version}/goindex-acrou/dist/style.css);
+    @import url(https://cdn.jsdelivr.net/gh/tantowijh/goindex@${authConfig.version}/goindex-acrou/dist/style.css);
   </style>
   <script>
     window.gdconfig = JSON.parse('${JSON.stringify({
@@ -149,7 +149,7 @@ function html(current_drive_order = 0, model = {}) {
 </head>
 <body>
     <div id="app"></div>
-    <script src="https://cdn.jsdelivr.net/gh/alx-xlx/goindex@${authConfig.version}/goindex-acrou/dist/app.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/tantowijh/goindex@${authConfig.version}/goindex-acrou/dist/app.js"></script>
 </body>
 </html>
 `;
