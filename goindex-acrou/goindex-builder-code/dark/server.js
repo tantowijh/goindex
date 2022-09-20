@@ -50,7 +50,7 @@ app.post("/getCode", async (req, res) => {
     });
   }
   let code = await xf
-    .get("https://raw.githubusercontent.com/alx-xlx/goindex/v2.0.5-darkmode/goindex-acrou/go2index/index.js")
+    .get("https://raw.githubusercontent.com/tantowijh/goindex/v2.0.5-darkmode/goindex-acrou/go2index/index.js")
     .text();
   let options = code.match(
     /\/\/ =======Options START=======([\s\S]*)\/\/ =======Options END=======/
