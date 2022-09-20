@@ -14,9 +14,9 @@ Combining the power of [Cloudflare Workers](https://workers.cloudflare.com/) and
 
 ## [Aicirou/goindex-theme](https://github.com/Aicirou/goindex-theme-acrou)
 
-Dark Mode : [index.js](https://github.com/alx-xlx/goindex/blob/2.0.5-darkmode-0.1/goindex-acrou/go2index/index.js)
+Dark Mode : [index.js](https://github.com/tantowijh/goindex/blob/2.0.5-darkmode-0.1/goindex-acrou/go2index/index.js)
 
-Copy the [index.js](https://github.com/alx-xlx/goindex/blob/2.0.5-darkmode-0.1/goindex-acrou/go2index/index.js) script to [workers.dev](https://workers.dev) and edit `client_id`, `client_secret`, `refresh_token` with yours
+Copy the [index.js](https://github.com/tantowijh/goindex/blob/2.0.5-darkmode-0.1/goindex-acrou/go2index/index.js) script to [workers.dev](https://workers.dev) and edit `client_id`, `client_secret`, `refresh_token` with yours
 
 OR
 
@@ -154,7 +154,7 @@ src="//cdn.jsdelivr.net/combine/gh/jquery/jquery/dist/jquery.min.js,gh/<USERNAME
 Example :
 
 ```
-src="//cdn.jsdelivr.net/combine/gh/jquery/jquery/dist/jquery.min.js,gh/alx-xlx/goindex@${authConfig.hash}/themes/${authConfig.theme}/app.js"
+src="//cdn.jsdelivr.net/combine/gh/jquery/jquery/dist/jquery.min.js,gh/tantowijh/goindex@${authConfig.hash}/themes/${authConfig.theme}/app.js"
 ```
 
 ## Change Icons
