@@ -60,7 +60,7 @@ Simply visit [this](https://goindex.glitch.me/) Modified (only for Dark Mode) ve
 ---
 ## 2. [maple3142/GDIndex](https://github.com/maple3142/GDIndex)
 ---
-Worker Script - [index.js](https://github.com/tantowijh/goindex/blob/2.0.8-darkmode-0.1/goindex-vue.js)
+Worker Script - [index.js](https://github.com/tantowijh/goindex/blob/2.0.8-darkmode-0.0/goindex-vue.js)
 
 ### Upload Files using CLI `gdindex_upload.py`
 ```py
@@ -87,7 +87,7 @@ Demo - [gdindex-dark.teamsdrives.workers.dev](https://gdindex-dark.teamsdrives.w
 
 ## 3. donwa/goindex
 
-Workers Script - [index.js](https://github.com/tantowijh/goindex/blob/2.0.8-darkmode-0.1/goindex.js)
+Workers Script - [index.js](https://github.com/tantowijh/goindex/blob/2.0.8-darkmode-0.0/goindex.js)
 
 ## Themes
 
